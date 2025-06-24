@@ -34,3 +34,11 @@ As part of this virtual experience, I worked on two key tasks for a fictional De
 - Attention to detail in identifying business insights
 
 ## 📂 Folder Structure
+📁 Deloitte-Forage-Analytics
+├── Task1_Telemetry_Analysis/
+│ ├── daikibo-telemetry-data.json
+│ ├── Tableau workbook (.twbx or screenshot)
+├── Task2_Equality_Assessment/
+│ ├── Task 5 Equality Table.xlsx
+│ └── Updated_Equality_Table.xlsx
+└── README.md
